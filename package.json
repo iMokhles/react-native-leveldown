@@ -1,5 +1,5 @@
 {
-  "name": "react-native-leveldown",
+  "name": "@imokhles/react-native-leveldown",
   "title": "React Native Leveldown",
   "version": "1.0.1",
   "description": "React Native native module for LevelJS, compatible with abstract-leveldown",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andymatuschak/react-native-leveldown.git",
-    "baseUrl": "https://github.com/andymatuschak/react-native-leveldown"
+    "url": "git+https://github.com/iMokhles/react-native-leveldown.git",
+    "baseUrl": "https://github.com/iMokhles/react-native-leveldown"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Andy Matuschak",
-    "email": "andy@andymatuschak.org"
+    "name": "Mokhlas Hussein",
+    "email": "mokhleshussien@aol.com"
   },
   "files": [
     "dist",

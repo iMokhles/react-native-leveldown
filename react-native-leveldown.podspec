@@ -9,11 +9,11 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-leveldown
                    DESC
-  s.homepage     = "https://github.com/github_account/react-native-leveldown"
+  s.homepage     = "https://github.com/iMokhles/react-native-leveldown"
   s.license      = "MIT"
-  s.authors      = { "Andy Matuschak" => "andy@andymatuschak.org" }
-  s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/andymatuschak/react-native-leveldown.git", :tag => "#{s.version}" }
+  s.authors      = { "Mokhlas Hussein" => "mokhleshussien@aol.com" }
+  s.platforms    = { :ios => "9.0", :tvos => "10.0" }
+  s.source       = { :git => "https://github.com/iMokhles/react-native-leveldown.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
   s.requires_arc = true
